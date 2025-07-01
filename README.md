@@ -54,8 +54,14 @@ To run the project locally:
 5. Open in your browser: http://localhost:3000
   
 ## 📸 Screenshots
-
-## 🌐 Live Demo
+**Home Page**
+![Homepage Screenshot](screenshots/Screenshot%201.png)
+**About Us Page**
+![Homepage About Us](screenshots/Screenshot%202.png)
+**Indian Cuisine**
+![Homepage Indian Cuisine](screenshots/Screenshot%203.png)
+**American Cuisine**
+![Homepage American Cuisine](screenshots/Screenshot%204.png)
 
 ## 🙋‍♀️ About Me
 Reena Meena
