@@ -57,11 +57,11 @@ To run the project locally:
 **Home Page**
 ![Homepage Screenshot](screenshots/Screenshot%201.png)
 **About Us Page**
-![Homepage About Us](screenshots/Screenshot%202.png)
+![About Us](screenshots/Screenshot%202.png)
 **Indian Cuisine**
-![Homepage Indian Cuisine](screenshots/Screenshot%203.png)
+![Indian Cuisine](screenshots/Screenshot%203.png)
 **American Cuisine**
-![Homepage American Cuisine](screenshots/Screenshot%204.png)
+![American Cuisine](screenshots/Screenshot%204.png)
 **Live Search**
 ![Live Search](screenshots/Screenshot%205.png)
 
