@@ -62,6 +62,8 @@ To run the project locally:
 ![Homepage Indian Cuisine](screenshots/Screenshot%203.png)
 **American Cuisine**
 ![Homepage American Cuisine](screenshots/Screenshot%204.png)
+**Live Search**
+![Live Search](screenshots/Screenshot%205.png)
 
 ## 🙋‍♀️ About Me
 Reena Meena
