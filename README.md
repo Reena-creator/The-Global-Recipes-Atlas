@@ -70,7 +70,7 @@ To run the project locally:
 ## 🙋‍♀️ About Me
 Reena Meena
 Student at IIT Indore | Passionate about coding and web development
-🌟 This project combines my love for wb development, clean UI design, and programming.
+🌟 This project combines my love for web development, clean UI design, and programming.
 
 ---
 ## 📄 License
